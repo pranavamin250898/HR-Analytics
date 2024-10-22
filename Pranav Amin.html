@@ -1,0 +1,1 @@
+<iframe title="Power BI Report HR Analytics" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5dfe3ec0-99ea-4e36-94bd-eeddaeb93fdd&autoAuth=true&ctid=c0f38700-d7f7-4200-ae37-7eebf475cdc1" frameborder="0" allowFullScreen="true"></iframe>
