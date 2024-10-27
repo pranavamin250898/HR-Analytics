@@ -1,10 +1,8 @@
-Dashboard : 
+# 📊 HR Attrition Analysis Dashboard
 
 ![image](https://github.com/user-attachments/assets/accfbbed-c53a-4fea-980e-a507a21fcdaa)
 
 
-
-# 📊 HR Attrition Analysis Dashboard
 
 This project presents a comprehensive **HR Attrition Analysis Dashboard** that provides insights into employee turnover trends. The dashboard visualizes key metrics related to employee demographics, job satisfaction, department-wise attrition, and more. It serves as a powerful tool to help HR professionals and organizational leaders understand and address factors impacting employee retention.
 
